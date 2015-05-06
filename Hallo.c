@@ -2,5 +2,5 @@
 
 int sayHello()
 {
-	printf(„Hello here is thger91!“);
+	printf(„Hello here is student thger91!“);
 }
